@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+#hero-canvas {
+  width: 100%;
+  height: 400px;
+}
